@@ -1,0 +1,15 @@
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.csproj.AssemblyReference.cache
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.AssemblyInfoInputs.cache
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.AssemblyInfo.cs
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.csproj.CoreCompileInputs.cache
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\bin\Debug\net7.0\Ex3_1.exe
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\bin\Debug\net7.0\Ex3_1.deps.json
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\bin\Debug\net7.0\Ex3_1.runtimeconfig.json
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\bin\Debug\net7.0\Ex3_1.dll
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\bin\Debug\net7.0\Ex3_1.pdb
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.dll
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\refint\Ex3_1.dll
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.pdb
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\Ex3_1.genruntimeconfig.cache
+C:\Users\Psyho\Desktop\Дмитро\Третій курс\Паралельні обчислення\Ex3_1\obj\Debug\net7.0\ref\Ex3_1.dll
