@@ -1,0 +1,14 @@
+D:\Visual studio new\проекти\lab6\lab6\bin\Debug\net8.0\lab6.exe
+D:\Visual studio new\проекти\lab6\lab6\bin\Debug\net8.0\lab6.deps.json
+D:\Visual studio new\проекти\lab6\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+D:\Visual studio new\проекти\lab6\lab6\bin\Debug\net8.0\lab6.dll
+D:\Visual studio new\проекти\lab6\lab6\bin\Debug\net8.0\lab6.pdb
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.dll
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\refint\lab6.dll
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.pdb
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+D:\Visual studio new\проекти\lab6\lab6\obj\Debug\net8.0\ref\lab6.dll

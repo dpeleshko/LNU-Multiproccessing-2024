@@ -1,0 +1,14 @@
+D:\Visual studio new\проекти\lab6\lab6Client\bin\Debug\net8.0\lab6Client.exe
+D:\Visual studio new\проекти\lab6\lab6Client\bin\Debug\net8.0\lab6Client.deps.json
+D:\Visual studio new\проекти\lab6\lab6Client\bin\Debug\net8.0\lab6Client.runtimeconfig.json
+D:\Visual studio new\проекти\lab6\lab6Client\bin\Debug\net8.0\lab6Client.dll
+D:\Visual studio new\проекти\lab6\lab6Client\bin\Debug\net8.0\lab6Client.pdb
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.AssemblyInfoInputs.cache
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.AssemblyInfo.cs
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.csproj.CoreCompileInputs.cache
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.dll
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\refint\lab6Client.dll
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.pdb
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\lab6Client.genruntimeconfig.cache
+D:\Visual studio new\проекти\lab6\lab6Client\obj\Debug\net8.0\ref\lab6Client.dll
